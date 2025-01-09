@@ -1,16 +1,24 @@
-# login_form
+# VillaNameApp
 
-A new Flutter project.
+VillaNameApp is a real estate platform designed to help users buy and sell properties including villas, flats, bungalows, and more. It allows sellers to list their properties with detailed information and images, while buyers can browse, search, and connect with sellers directly through the app.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Authentication:** Users can create accounts and log in securely.
+- **Property Listings:** Sellers can add and manage properties with detailed descriptions, images, and pricing.
+- **Property Search:** Buyers can filter properties based on location, price, and type.
+- **Property Details:** Detailed pages for each property with images, descriptions, and options to contact the seller.
+- **Favorites:** Users can save properties to their favorites for easy access later.
+- **Property Scheduling:** Users can schedule meetings with sellers for property viewings.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter:** For building the cross-platform mobile app.
+- **Firebase:** For backend services including authentication, database, and storage.
+- **Dart:** Programming language used for app development.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rutvikumbhar/VillaNameApp.git
